@@ -5,4 +5,3 @@ Asteroids appear from different directions and move toward the player’s spaces
 
 This project helped us learn the basics of game development, including game loops, collision detection, player controls, and score tracking.
 
-[Hello Google](https://www.google.com)
